@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-    Name: EncryptoApp
-    Type: File Encryption GUI App
-    Credits: "EncryptionTool" class from "github.com/nsk89" for file encryption
-"""
-
 import os
 import sys
 import hashlib
